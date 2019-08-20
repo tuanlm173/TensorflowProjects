@@ -1,2 +1,2 @@
 # TensorflowProjects
-Machine Learning and Deep Learning practice with Tensorflow wth OOP Design
+Machine Learning and Deep Learning practice with Tensorflow using OOP Design
