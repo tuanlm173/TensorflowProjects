@@ -1,0 +1,7 @@
+{
+  "exp_name": "logistic_regression_mnist",
+  "training_epochs": 30,
+  "learning_rate": 0.01,
+  "batch_size": 100,
+  "display_step": 1
+}
